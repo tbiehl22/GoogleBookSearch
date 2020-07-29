@@ -1,7 +1,7 @@
 # Google Book Search
 
 ## Overview
-In this activity, create a new React-based Google Books Search app. This app construction used React components, helper/util functions, and utilized React lifecycle methods to query and display books based on user searches. Also use Node, Express and MongoDB so that users can save books to review or purchase later.
+In this activity, I created a new React-based Google Books Search app. This app construction used React components, helper/util functions, and utilized React lifecycle methods to query and display books based on user searches. Also used Node, Express and MongoDB so that users can save books to review or purchase later.
 
 ![img](client/public/images/googlebooksearch.png)
 
